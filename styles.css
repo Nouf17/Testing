@@ -1,0 +1,96 @@
+/*CSS Page */
+body { 
+    background-image: url('Images/background.png');
+	 }
+
+h1
+{
+	font-family:Century, sans-serif;
+	color:  #990000
+
+}
+
+h2
+{
+	font-family:Century, sans-serif;
+	color:  #990000
+
+}
+h3 
+{
+	font-family:Century, sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: normal;
+	color:  #990000
+}
+
+
+p{
+	font-family: Century, sans-serif;
+	font-size:16px;
+	color:#000000;
+}
+
+footer{
+    font-family: Century, sans-serif;
+	font-size:16px;
+	color:#000000;
+}
+
+ul{
+	color:  #990000
+
+}
+
+fieldset{
+font-family: Century, sans-serif;
+	font-size:16px;
+	color:#000000;
+}
+
+legend{
+color:  #990000
+}
+
+button{
+font-family: Century, sans-serif;
+	font-size:16px;
+}
+
+
+input{
+font-family: Century, sans-serif;
+	font-size:16px;
+}
+
+
+}
+.inbl {
+    display: inline-block;
+    vertical-align: top;
+}
+.container {
+    white-space: nowrap;
+}
+
+#featured-content #column1{
+	float: left;
+	width: 300px;
+}
+
+#featured-content #column2{
+	
+	width: 500px;
+	position:relative;
+	margin: 0px;
+		float: right;
+}
+
+#featured-content #column3 {
+	width: 500px;
+	position:relative;
+	margin: 0px;
+	float: right;
+}
+
